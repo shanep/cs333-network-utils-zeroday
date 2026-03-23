@@ -4,9 +4,8 @@ This repository contains a collection of network utilities designed for educatio
 
 ## Team Members
 
-- Alice Smith
-- Bob Johnson
-- Charlie Davis
+- Ado Maksic
+- Nathan Marquis
 
 
 ## Quick Start
