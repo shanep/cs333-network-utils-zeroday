@@ -30,7 +30,7 @@ Footer: Marks the end of the packet, and contains error-checking information.
 
 
 ### Sources
-![IP Header Table](https://pressbooks.howardcc.edu/app/uploads/sites/4/2020/02/IPheader.png)
+![IP Header Table](https://www.pynetlabs.com/wp-content/uploads/2024/01/tcp-header-format.jpeg)
 
 [Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-packet/)
 [Sciencedirect](https://www.sciencedirect.com/topics/computer-science/packet-structure)
